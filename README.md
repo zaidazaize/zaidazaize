@@ -14,7 +14,7 @@
 🔭 I’m a self taught Android developer.
 
 **About Me**
-- 🌱 I’m currently learning **System Design** and **Devops**
+<!-- - 🌱 I’m currently learning **System Design** and **Devops** -->
 - 👯 I’m looking to collaborate on **Open Source Projects**
 <!-- - 💬 Ask me about android 
 - 📫 How to reach me:  -->
