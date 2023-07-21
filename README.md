@@ -16,10 +16,10 @@
 **About Me**
 <!-- - 🌱 I’m currently learning **System Design** and **Devops** -->
 - 👯 I’m looking to collaborate on **Open Source Projects**
-<!-- - 💬 Ask me about android 
-- 📫 How to reach me:  -->
-<!-- ![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidazaize&show_icons=true&count_private=true&theme=radical)
+- 💬 Ask me about android 
+- 📫 How to reach me:  
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidazaize&show_icons=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidazaize&langs_count=8&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
- -->
-<!-- ![Zaid's github stats](https://github-stats-alpha.vercel.app/api?username=zaidazaize&cc=000&tc=fff&ic=fff&bc=000)  [![GitHub Streak](https://streak-stats.demolab.com?user=zaidazaize&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidazaize&langs_count=8&hide=scss)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
+ ![Zaid's github stats](https://github-stats-alpha.vercel.app/api?username=zaidazaize&cc=000&tc=fff&ic=fff&bc=000)  [![GitHub Streak](https://streak-stats.demolab.com?user=zaidazaize&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
